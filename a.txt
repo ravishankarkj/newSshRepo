@@ -1,1 +1,2 @@
 Adding text to a.txt
+Modifying a.txt
